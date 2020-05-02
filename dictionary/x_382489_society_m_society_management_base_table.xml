@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Society Management Base Table" max_length="40" name="x_382489_society_m_society_management_base_table" type="collection"/>
+</database>
